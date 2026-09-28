@@ -62,3 +62,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 Team Member Signatures:
 
 Emanuel Ribeiro Lemos Pereira
+Xiangsi Zhou
