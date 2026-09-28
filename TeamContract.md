@@ -24,27 +24,27 @@ Team members will respond to messages within 24-48 hours on weekdays.
 All communication will remain respectful, professional, and constructive.
 ---
 
-### [Other Categories of norms and expectations go here]
+### Attendance & Participation
 
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
-      
-    - Members will attend all scheduled classes and team meetings unless illness or emergencies occur.
-    - If unable to attend, a member must notify the team in advance and provide input asynchronously.
-    - During team activities, every member will contribute ideas and engage in the discussion.
+* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team? 
+  * Members will attend all scheduled classes and team meetings unless illness or emergencies occur.
+  * If unable to attend, a member must notify the team in advance and provide input asynchronously.
+  * During team activities, every member will contribute ideas and engage in the discussion.
 
 
 ---
 
 ## Decision Making
 
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
+* How will decisions about your team project be made? 
   * We discuss first about a topic. If we don't fully agree with each other, then we will decide by majority vote.
+
 ---
 ## Conflict resolution
 
-* How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
+* How will your team resolve conflicts?
   * We'll try to solve the conflict/discussion among ourselves. If we don't solve the conflict, we'll consult the TA.
+
 ---
 
 ## Accountability
@@ -60,5 +60,5 @@ All communication will remain respectful, professional, and constructive.
 By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
 
 Team Member Signatures:
+
 Emanuel Ribeiro Lemos Pereira
-(type names here)
